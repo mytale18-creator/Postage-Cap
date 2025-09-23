@@ -1,7 +1,7 @@
 Stamp Scout Universe
-Discover. Collect. Trade. The ultimate platform for the modern philatelist.
+Discover. Collect. Sell. The ultimate platform for the modern philatelist.
 
-Welcome to Stamp Scout Universe, the all-in-one platform for the modern stamp collector. We combine powerful collection management tools with a full-featured marketplace to serve your entire philatelic journey.
+Welcome to Stamp Scout Universe, the all-in-one platform for the modern stamp collector. We combine powerful collection management tools with a full-featured marketplace to serve your entire philatelic journey. 
 
 Find Us on Google Search
 Our platform is designed to be the top result for collectors. You can easily find Stamp Scout Universe on Google by searching for key philatelic terms such as:
@@ -29,10 +29,10 @@ Education Corner & Badges: Learn about philatelic history, terms, and techniques
 🛒 Marketplace (For the Trader)
 Buy & Sell with Confidence: A full-featured marketplace to buy from and sell to a community of passionate collectors.
 
-Seller Subscriptions: Flexible tiers for everyone from the casual hobbyist to the professional dealer, all with an industry-leading low commission rate.
+Seller Subscriptions: Flexible tiers for everyone from the casual hobbyist to the professional dealer, all with an industry-leading lowest commission rate.
 
 Scout-to-Market Workflow: List a stamp for sale directly from your personal collection with a single click, with all details pre-filled.
 
 Secure Checkout: Integrated payment processing for safe and reliable transactions.
 
-Join Stamp Scout Universe today to discover, manage, and trade
+Join Stamp Scout Universe today to discover, manage, and buy or sell
