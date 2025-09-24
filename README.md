@@ -1,7 +1,8 @@
-Stamp Scout Universe
-Discover. Collect. Sell. The ultimate platform for the modern philatelist.
+Postage-Cap
+Discover. Collect. Sell. 
+The ultimate platform for the modern philatelist.
 
-Welcome to Stamp Scout Universe, the all-in-one platform for the modern stamp collector. We combine powerful collection management tools with a full-featured marketplace to serve your entire philatelic journey. 
+Welcome to Postage-Cap, the all-in-one platform for the modern stamp collector. We combine powerful collection management tools with a full-featured marketplace to serve your entire philatelic journey. 
 
 Find Us on Google Search
 Our platform is designed to be the top result for collectors. You can easily find Stamp Scout Universe on Google by searching for key philatelic terms such as:
@@ -19,7 +20,7 @@ Our platform is designed to be the top result for collectors. You can easily fin
 In-App Experience & Attributes
 We offer a seamlessly integrated experience with two main modes:
 
-🔎 Scout Tools (For the Collector)
+🔎 Personal Tools (For the Collector)
 AI-Powered Stamp Identifier: Simply upload a photo of a stamp, and our AI will identify it, providing details like its Scott Number and estimated value.
 
 Digital Collection Manager: Every stamp you identify is automatically added to your secure, private online collection, creating a digital portfolio.
@@ -31,8 +32,8 @@ Buy & Sell with Confidence: A full-featured marketplace to buy from and sell to 
 
 Seller Subscriptions: Flexible tiers for everyone from the casual hobbyist to the professional dealer, all with an industry-leading lowest commission rate.
 
-Scout-to-Market Workflow: List a stamp for sale directly from your personal collection with a single click, with all details pre-filled.
+Personal-to-Market Workflow: List a stamp for sale directly from your personal collection with a single click, with all details pre-filled.
 
 Secure Checkout: Integrated payment processing for safe and reliable transactions.
 
-Join Stamp Scout Universe today to discover, manage, and buy or sell
+Put on your "Postage-Cap", and check us out today to discover, manage, and buy or sell
