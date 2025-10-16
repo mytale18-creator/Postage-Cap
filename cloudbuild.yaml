@@ -35,7 +35,7 @@ steps:
       - '-h'
       - 'Cache-Control:public, max-age=3600'
       - '-r'
-      - 'gs://${_BUCKET_NAME}/**'
+      - 'gs://${_BUCKET_NAME}'
 
 # Substitutions for bucket name (can be overridden at build time)
 substitutions:
